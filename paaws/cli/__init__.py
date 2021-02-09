@@ -8,7 +8,7 @@ The most commonly used paaws commands are:
     app         create, scale, cmd, ls, ps, deploy, link an app.
     instance    launch, destroy, ls, detail an instance.
     database    launch, destroy, ls, detail a database.
-    cache       launch, destroy, ls detail a cache.
+    cache       launch, destroy, ls, detail a cache.
     help        show paaws help.
 """
 
